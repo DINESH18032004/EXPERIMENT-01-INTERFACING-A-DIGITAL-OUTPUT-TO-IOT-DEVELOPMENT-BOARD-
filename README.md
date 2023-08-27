@@ -78,7 +78,7 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 
 
@@ -163,20 +163,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
   
 }
-
-
+```
 
 ## Output  :
 
 ##On state:
-![image](https://github.com/DINESH18032004/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119477784/fa56d595-ca8c-406b-9975-ec1881b46ecf)
+![led on 01](https://github.com/DINESH18032004/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119477784/d349e468-7e8b-4259-a037-c90a16fe1123)
 
 ##Off state:
- ![image](https://github.com/DINESH18032004/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119477784/4bddcb71-48ae-4802-a288-356d4e743dd0)
+ ![led off 01](https://github.com/DINESH18032004/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119477784/6b82955f-9fcd-4319-97b1-3575fc7acad2)
 
- 
- 
- 
 ## Result :
 
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
